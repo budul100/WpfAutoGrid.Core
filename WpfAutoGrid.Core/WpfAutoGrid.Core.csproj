@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Description>A flexible, easy to configure drop-in replacement for the standard WPF Grid control. This is a netcore app implementation of WpfAutoGrid which can be found on https://github.com/carbonrobot/wpf-autogrid.
+</Description>
+    <Copyright>Copyright © Charles Brown 2013</Copyright>
+    <Product />
+    <Company />
+    <Authors>Charles Brown</Authors>
+    <Version>1.5.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
