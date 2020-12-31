@@ -9,9 +9,10 @@
     <Product />
     <Company />
     <Authors>Charles Brown</Authors>
-    <Version>1.5.0</Version>
+    <Version>1.5.1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/budul100/WpfAutoGrid.Core</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
